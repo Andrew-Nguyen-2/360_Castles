@@ -1,0 +1,13 @@
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\bin\Debug\netcoreapp3.1\Castles.exe
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\bin\Debug\netcoreapp3.1\Castles.deps.json
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\bin\Debug\netcoreapp3.1\Castles.runtimeconfig.json
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\bin\Debug\netcoreapp3.1\Castles.runtimeconfig.dev.json
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\bin\Debug\netcoreapp3.1\Castles.dll
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\bin\Debug\netcoreapp3.1\Castles.pdb
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\obj\Debug\netcoreapp3.1\Castles.csprojAssemblyReference.cache
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\obj\Debug\netcoreapp3.1\Castles.AssemblyInfoInputs.cache
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\obj\Debug\netcoreapp3.1\Castles.AssemblyInfo.cs
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\obj\Debug\netcoreapp3.1\Castles.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\obj\Debug\netcoreapp3.1\Castles.dll
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\obj\Debug\netcoreapp3.1\Castles.pdb
+C:\Users\Andrew Nguyen\source\repos\Castles\Castles\obj\Debug\netcoreapp3.1\Castles.genruntimeconfig.cache
